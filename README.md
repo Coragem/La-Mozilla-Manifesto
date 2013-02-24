@@ -1,8 +1,4 @@
-mozilla-esperanto
+Saluton!
 =================
 
-Projektoj de la komunumo Mozilla Esperanto.
-
-Saluton!
-
-Sciu nia oficiala retpoŝta dissendolisto https://lists.mozilla.org/listinfo/community-esperanto
+Sciu la oficiala retpoŝta dissendolisto de la komunumo Mozilla Esperanto https://lists.mozilla.org/listinfo/community-esperanto
