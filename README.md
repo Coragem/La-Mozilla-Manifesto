@@ -5,4 +5,4 @@ Projektoj de la komunumo Mozilla Esperanto.
 
 Saluton!
 
-Sciu nia retpoŝta dissendolisto oficiala https://lists.mozilla.org/listinfo/community-esperanto
+Sciu nia oficiala retpoŝta dissendolisto https://lists.mozilla.org/listinfo/community-esperanto
